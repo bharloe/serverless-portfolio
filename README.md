@@ -1,2 +1,2 @@
-# serverless-portfolio
-A serverless web developer portfolio created with React
+#Ben Harloe's portfoloio
+A serverless web developer portfolio created with AWS and React
