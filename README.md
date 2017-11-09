@@ -10,4 +10,4 @@ SSH
 
 Brew
 
-AW
+AWS
