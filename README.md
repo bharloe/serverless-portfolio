@@ -8,7 +8,11 @@ Git
 
 Brew
 
-AWS
+AWS Code Pipeline
+
+AWS Lambda
+
+AWS SNS
 
 Chai 
 
