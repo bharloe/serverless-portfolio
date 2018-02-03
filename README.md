@@ -2,7 +2,7 @@
 
 A serverless web developer portfolio created with AWS and React
 
-[https://portfolio.benharloe.com/]
+https://portfolio.benharloe.com/
 
 # Technologies used
 
