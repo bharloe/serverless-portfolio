@@ -2,6 +2,8 @@
 
 A serverless web developer portfolio created with AWS and React
 
+portfolio.benharloe.com
+
 # Technologies used
 
 Git
